@@ -12,6 +12,7 @@
  
 # Content
  + Home Page -
+   + Website name and its theme.
  + About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
  + Encyclopedia -
    + Providing updated offers of jobs, scholarships and internships only for women.
