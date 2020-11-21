@@ -28,6 +28,6 @@
   + Yashi Srivastava - Content, Images, Brainstorming
   + Aditi Mishra - Content, Images
   
- # HackForShe 2020 Hackathon
+ # @HackForShe 2020 Hackathon
    
 # Stay assured that this is a place for learning, discovery, innovation, expression and discourse for all the precious women out there.
