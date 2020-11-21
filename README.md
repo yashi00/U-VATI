@@ -1,5 +1,8 @@
 # U-VATI Theme
  $ Your gender shouldn't decidede whether you get education.
+ 
+# U-VATI Slogan
+ $ WE CAN MARCH
 
 # U-VATI 
  $ This is an educational website for women empowerment by women.
