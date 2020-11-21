@@ -1,8 +1,3 @@
-# U-VATI Themes
- + Your gender shouldn't decidede whether you get education.
- 
-# U-VATI Slogan
- + WE CAN MARCH
 
 # U-VATI 
  + This is an educational website for women empowerment by women.
@@ -10,18 +5,7 @@
    to make it easy for the users to get all data at one place.
  + It is a non profitable website with the only one aim of women empowerment through education in non conventional fields.
  
-# Content
- + Home Page -
-   + Website name and its theme.
- + About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
- + Encyclopedia -
-   + Providing updated offers of jobs, scholarships and internships only for women.
- + Blogs -
-   + Stories about the hereoines of our country who continiously break the norms and proove that success sees no gender.
- + Mentorship - 
-   + Mentors for one on one guidance and support.
- + Contact Us -
-   + For any further query or feedback
+
    
  # Creators
   + Vatsla Adhikari - Front end, Designing, Logo
@@ -35,19 +19,6 @@
 
 
 
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -58,7 +29,8 @@
   <h3 align="center">U-VATI</h3>
 
   <p align="center">
-    WE CAN MARCH
+   ## WE CAN MARCH
+ _Your gender shouldn't decidede whether you get education_
     <br />
     
   
@@ -68,57 +40,45 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE WEBSITE
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The origin of this website comes from Hack4She 2020 hackathon, which focuses on women upliftment. 
+The website was started with the aim of helping, supporting and reaching out to women all across India with educational information, opportunities, blogs and interactive Mentorship sessions. U-VATI solely aims for gender equality which can be achieved through awareness provided to the clients in an efficient and centralised manner, with a single website including all possible educational resources so that the targetted audience can easily and effectively extract information about any educational query or topic. The products applicable are -
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Encyclopedias that will comprise all the scholarships, internships and jobs openings in various companies.
+* A blog section to encourage women to come to the forefront 
+                   via real life stories. To provide solutions to women centric problems.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+* A personalised guidance to have one on one interaction with the Mentor.
+* A Contact Us for further queries or individual suggestions.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+## Stay assured that this is a place for learning, discovery, innovation, expression and discourse for the precious women out there.:smile:
 
+# Content
+ + Home Page -
+   + Website name and its theme.
+ + About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
+ + Encyclopedia -
+   + Providing updated offers of jobs, scholarships and internships only for women.
+ + Blogs -
+   + Stories about the hereoines of our country who continiously break the norms and proove that success sees no gender.
+ + Mentorship - 
+   + Mentors for one on one guidance and support.
+ + Contact Us -
+   + For any further query or feedback
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+The technologies that we used were:
+* **CSS**
+* **HTML**
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
 
@@ -183,37 +143,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 
